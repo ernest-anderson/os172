@@ -20,3 +20,4 @@ drwxr-xr-x  2 ernest.anderson StafCS 4096 Sep  4 16:47 week09
 drwxr-xr-x  2 ernest.anderson StafCS 4096 Sep  4 16:47 week10
 drwxr-xr-x  2 ernest.anderson StafCS 4096 Sep  4 16:48 xtra
 /home/fasilkom/mahasiswa/e/ernest.anderson/os172/week01
+Today is 05 Sep 2017 at 13:57:46
