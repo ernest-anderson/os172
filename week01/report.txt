@@ -1,0 +1,6 @@
+#Ernest Anderson
+
+Belajar membuat direktori dan file
+Belajar cara melakukan clone, commit, pull dan push melalui server badak
+Belajar cara mengubah/mengedit file melalui github
+Belajar cara menghapus file melalui server badak
