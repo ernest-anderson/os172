@@ -1,0 +1,11 @@
+w04-170926-16-LR-About: I/O process, From: Lecturer
+w04-170926-16-LR-About: I/O process, From: Lecturer
+w04-170926-17-LR-About: I/O process, From: Lecturer
+
+w04-170925-20-LR-About: Memory address local and global variable, from: https://stackoverflow.com/questions/14588767/where-in-memory-are-my-variables-stored-in-c
+									https://satriaskyterror.wordpress.com/2010/10/09/heap-dan-stack-pada-program-komputer/ 
+
+w04-170925-22-PS-Doing lab session
+w04-170925-22-PS-Doing lab session
+w04-170925-23-PS-Doing lab session
+w04-170927-17-PS-Doing lab session
